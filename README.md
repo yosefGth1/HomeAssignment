@@ -1,4 +1,4 @@
-# HomeAssignment
+# Home Assignment
 
 
 In our unit we are using some software technologies that we want you to be familiar with and also demonstrate your ability to understand and work with them.
@@ -6,7 +6,7 @@ In our unit we are using some software technologies that we want you to be famil
 For this task we picked these specific technologies : s3 Minio , Mongodb, Node js , React js , TypeScript , Docker .
 
 
- - create the infrastructure for the assignment  using Docker compose on the .yaml file we provided . 
+ - Deploy the infrastructure for the assignment  using Docker compose on the .yaml file we provided . 
  - Create a user interface using React  for uploading files , The UI needs to be designed to look like the example we provided as much as you can.
  - Create a Node js Server to receive the file you uploaded , Perform a validation on the files (only allow certain file extensions etc…) .
  - Extract metadata from the file (such as :  name , type , size , creation date, md5 hash of the file  ) .
