@@ -6,7 +6,13 @@ In our unit we are using some software technologies that we want you to be famil
 For this task we picked these specific technologies :  Minio , Mongodb, Node js , React js , TypeScript , Docker .
 
 <details>
-  <summary>Click to expand</summary>
+  <summary>Backend</summary>
+
+  content
+
+</details>
+<details>
+  <summary>Frontend</summary>
 
   content
 
