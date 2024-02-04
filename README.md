@@ -5,6 +5,13 @@ In our unit we are using some software technologies that we want you to be famil
 
 For this task we picked these specific technologies :  Minio , Mongodb, Node js , React js , TypeScript , Docker .
 
+<details>
+  <summary>Click to expand</summary>
+
+  content
+
+</details>
+
 
  - Deploy the infrastructure for the assignment  using Docker compose on the .yaml file we provided . 
  - Create a user interface using React  for uploading files , The UI needs to be designed to look like the example we [provided](https://www.figma.com/file/d8dGyuJIbrbdJzEN0l3lSI/%D7%A4%D7%A8%D7%95%D7%99%D7%A7%D7%98-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%9E%D7%A8%D7%A5-2024?type=design&node-id=0-1&mode=design) as much as you can.
