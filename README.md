@@ -13,7 +13,7 @@ For this task we picked these specific technologies : s3 Minio , Mongodb, Node j
  - Store the metadata in a mongo database in a json format. 
  - Store the file on a Minio server, use the hash of the file as the name for the file.
  - If the user uploads a file and its hash already exists in the database let the user know in the UI that this file already exists . 
- - Creat test for your App. 
+ - Creat tests for your App. 
  - open a new private git repository commit and push the code to a branch called DEV. 
 
 NOTE :  Using TypeScript and Git flow is a big bonus !
