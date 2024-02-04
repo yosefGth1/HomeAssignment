@@ -11,7 +11,7 @@ For this task we picked these specific technologies : s3 Minio , Mongodb, Node j
  - Create a Node js Server to receive the file you uploaded , Perform a validation on the files (only allow certain file extensions etc…) .
  - Extract metadata from the file (such as :  name , type , size , creation date, md5 hash of the file  ) .
  - Store the metadata in a mongo database in a json format. 
- - Store the file on a Minio s3 server, use the hash of the file as the name for the file.
+ - Store the file on a Minio server, use the hash of the file as the name for the file.
  - If the user uploads a file and its hash already exists in the database let the user know in the UI that this file already exists . 
  - Creat test for your App. 
  - open a new private git repository commit and push the code to a branch called DEV. 
