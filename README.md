@@ -3,7 +3,7 @@
 
 In our unit we are using some software technologies that we want you to be familiar with and also demonstrate your ability to understand and work with them.
 
-For this task we picked these specific technologies : s3 Minio , Mongodb, Node js , React js , TypeScript , Docker .
+For this task we picked these specific technologies :  Minio , Mongodb, Node js , React js , TypeScript , Docker .
 
 
  - Deploy the infrastructure for the assignment  using Docker compose on the .yaml file we provided . 
