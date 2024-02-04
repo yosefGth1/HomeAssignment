@@ -1,9 +1,10 @@
 # Home Assignment
 
 
-In our unit we are using some software technologies that we want you to be familiar with and also demonstrate your ability to understand and work with them.
+In our team we are using some software technologies that we want you to be familiar with and also demonstrate your ability to understand and work with them.
 
-For this task we picked these specific technologies :  Minio , Mongodb, Node js , React js , TypeScript , Docker .
+In this task we want you to create a full stack app , that includes taking user input from a well designed UI and then preforming some procesing on the data (such as validation and metadata extraction)  and then doing some CRUD operations with a selected DB.
+
 
 <details>
   <summary>Backend</summary>
@@ -19,6 +20,7 @@ For this task we picked these specific technologies :  Minio , Mongodb, Node js 
 </details>
 
 <details>
+  using the same technologies that we are using in our team is a grate bonus 
   <summary>Technologies</summary>
 
   Minio, 
