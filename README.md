@@ -18,7 +18,7 @@ For this task we picked these specific technologies : s3 Minio , Mongodb, Node j
 
 NOTE :  Using TypeScript and Git flow is a big bonus !
 
-                                                                      GOOD LUCK 
+                                                                GOOD LUCK 
  
 
 # figma design for the ui 
