@@ -3,7 +3,7 @@
 
 In our team we are using some software technologies that we want you to be familiar with and also demonstrate your ability to understand and work with them.
 
-In this task we want you to create a full stack app , that includes taking user input from a well designed UI and then preforming some procesing on the data (such as validation and metadata extraction)  and then doing some CRUD operations with a selected DB.
+In this task we want you to create a full stack app , that includes taking user input from a well designed UI and then preforming some procesing on the data, and then doing some CRUD operations with a selected DB.
 
 
 <details>
