@@ -38,6 +38,5 @@ In this task we want you to create a full stack app , that includes taking user 
 
 </details>
 
- NOTE :  Using TypeScript is a big bonus !
 
 GOOD LUCK ! 
