@@ -9,7 +9,7 @@ In this task we want you to create a full stack app , that includes taking user 
 <details>
   <summary>Frontend</summary>
 
-  - Create a user interface for uploading files , The UI needs to be designed to look like the [example](https://www.figma.com/file/d8dGyuJIbrbdJzEN0l3lSI/%D7%A4%D7%A8%D7%95%D7%99%D7%A7%D7%98-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%9E%D7%A8%D7%A5-2024?type=design&node-id=0-1&mode=design) we provided as much as you can.
+  - Create a user interface for uploading files ,Make sure that it looks like the [example](https://www.figma.com/file/d8dGyuJIbrbdJzEN0l3lSI/%D7%A4%D7%A8%D7%95%D7%99%D7%A7%D7%98-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%9E%D7%A8%D7%A5-2024?type=design&node-id=0-1&mode=design) we provided as much as you can.
 
 </details>
 
@@ -21,7 +21,7 @@ In this task we want you to create a full stack app , that includes taking user 
   - Extract metadata and store it .
   - store the files , and check for duplications.
   - Create tests.
-  - Use git flow .  
+  - Use git flow.   
 
 </details>
 
@@ -38,6 +38,6 @@ In this task we want you to create a full stack app , that includes taking user 
 
 </details>
 
-# NOTE :  Using TypeScript and Git flow is a big bonus !
+ NOTE :  Using TypeScript and Git flow is a big bonus !
 
 GOOD LUCK ! 
